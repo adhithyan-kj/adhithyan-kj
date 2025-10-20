@@ -8,7 +8,7 @@
 ---
 
 ## 👋 **About Me**
-I'm an **18-year-old AI developer** and **app enthusiast** from **Kerala, India**.  
+I'm an **19-year-old AI developer** and **app enthusiast** from **Kerala, India**.  
 I love **building innovative apps**, **exploring AI-powered solutions**, and **creating meaningful tech products** that impact people's lives.
 
 🌱 **Currently Learning:** Advanced Android Development & AI Integration  
