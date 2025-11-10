@@ -108,6 +108,9 @@ I love **building innovative apps**, **exploring AI-powered solutions**, and **c
   <a href="mailto:adhithyankjofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+
+
+[![An image of @adhithyankj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adhithyankj)](https://holopin.io/@adhithyankj)
 ---
 
 > **"I don’t just write code — I create experiences 🚀"**
