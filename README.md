@@ -111,6 +111,7 @@ I love **building innovative apps**, **exploring AI-powered solutions**, and **c
 
 
 [![An image of @adhithyankj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adhithyankj)](https://holopin.io/@adhithyankj)
+
 ---
 
 > **"I don’t just write code — I create experiences 🚀"**
