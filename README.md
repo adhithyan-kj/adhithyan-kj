@@ -114,6 +114,14 @@ I love **building innovative apps**, **exploring AI-powered solutions**, and **c
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/adhithyan-kj/adhithyan-kj/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 > **"I don’t just write code — I create experiences 🚀"**
 
 ⭐ **Don't forget to star my repositories if you find them useful!** ⭐
