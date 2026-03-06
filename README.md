@@ -82,7 +82,7 @@ I love **building innovative apps**, **exploring AI-powered solutions**, and **c
 |--------------|----------|------|
 | UI/UX Workshop | Vidya Academy | [🔗 View](https://linkedin.com/in/adhithyankj) |
 | 3-Day Web Dev Bootcamp | DevLabs Club | [🔗 View](https://linkedin.com/in/adhithyankj) |
-| Python Mastery (In Progress) | Personal Project | Coming Soon |.
+| Python Mastery (In Progress) | Personal Project | Coming Soon |
 
 ---
 
